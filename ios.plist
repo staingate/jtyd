@@ -1,1 +1,41 @@
-# jtyd
+<?xml version="1.0" encoding="UTF-8"?>   
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">   
+<plist version="1.0">   
+<dict>   
+   <key>items</key>   
+   <array>   
+       <dict>   
+           <key>assets</key>   
+           <array>   
+               <dict>   
+                   <key>kind</key>   
+                   <string>software-package</string>   
+                   <key>url</key>   
+                   <string>http://192.168.2.120/app/ios.ipa</string>   
+               </dict>
+               <dict>
+                  <key>kind</key>
+                  <string>display-image</string>
+                  <key>needs-shine</key>
+                  <false/>
+                  <key>url</key>
+                  <string>http://ww2.sinaimg.cn/large/a20ba858jw1fbaf140lxpj20sg0sgadj.jpg</string>
+                </dict>
+           </array>   
+           <key>metadata</key>   
+           <dict>
+               <key>kind</key>
+              <string>software</string>
+              <key>bundle-identifier</key>
+              <string>com.magnetic.jtyd</string>
+              <key>title</key>
+              <string>景陶移动门户</string>
+              <key>bundle-version</key>
+              <string>0.2.4</string>
+              <key>subtitle</key>
+              <string>景陶移动门户</string> 
+           </dict>   
+       </dict>   
+   </array>   
+</dict>   
+</plist>  
